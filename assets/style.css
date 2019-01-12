@@ -1,0 +1,16 @@
+body {
+	margin: 50px;
+	background: url(../assets/pexels-photo-1020315.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+};
+
+.movieButton {
+    margin: 20px;
+};
+
+
+
+
+
